@@ -1,0 +1,4 @@
+# robots.txt for http://philsco.net/
+
+User-agent: *
+Disallow: /
